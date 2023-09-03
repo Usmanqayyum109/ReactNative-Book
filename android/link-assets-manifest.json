@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Jameel Noori Nastaleeq .ttf",
+      "sha1": "4485396a86cfbb7085d3f5e2426d8d8f30854f5c"
+    },
+    {
+      "path": "assets/fonts/MehrNastaliqWebRegular.ttf",
+      "sha1": "3378c936e5caa1e0be9712a807d3b5df5593ff2c"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    }
+  ]
+}
